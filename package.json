@@ -38,12 +38,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/praveen-osits/ingest-csv.git"
+    "url": "git+https://github.com/praveen-osits/code-20210225-praveensisodiya.git"
   },
   "author": "Praveen Sisodiya",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/praveen-osits/ingest-csv/issues"
+    "url": "https://github.com/praveen-osits/code-20210225-praveensisodiya/issues"
   },
-  "homepage": "https://github.com/praveen-osits/ingest-csv#readme"
+  "homepage": "https://github.com/praveen-osits/code-20210225-praveensisodiya#readme"
 }
